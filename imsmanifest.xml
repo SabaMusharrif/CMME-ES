@@ -55,6 +55,7 @@
       <title>CMME-ES</title>
       <item identifier="CMME-ES_SCO" isvisible="true" identifierref="__6VL43RtXlXm_RES">
         <title>CMME-ES</title>
+        <adlcp:masteryscore>100</adlcp:masteryscore>
       </item>
     </organization>
   </organizations>
@@ -62,6 +63,8 @@
     <resource identifier="__6VL43RtXlXm_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6OG0ILx2u0o.png" />
+      <file href="story_content/5pg93Ga11jz_44100_48_0.mp3" />
+      <file href="story_content/6TrbHhppN7A_44100_48_0.mp3" />
       <file href="mobile/5vC6DvUDdcQ.png" />
       <file href="mobile/5vC6DvUDdcQ_P_0_0_459_1863.png" />
       <file href="mobile/5rrCkBOBxX2_F3FBFE_P_162_149_1743_1215.png" />
